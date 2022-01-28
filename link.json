@@ -2,6 +2,7 @@
   {
     "name": "android开发工具箱",
     "packageName": "com.su.assistant.pro",
+	"order": 1,
     "author": "su1216",
     "preferred": ["coolapk", "yingyongbao", "360", "appchina"],
     "desc": "一款适合开发人员的辅助开发工具，也是\"应用与系统信息\"的高级版。android开发工具箱集成了两款反编译工具apktool/jadx。此外还有强大的布局信息功能，全方位的应用统计功能，支持各版本应用签名，还有很多神奇功能。"
@@ -12,5 +13,13 @@
     "author": "Absinthe",
     "preferred": ["coolapk"],
     "desc": "这是一个查看并分析App使用的第三方库的应用。"
+  },
+  {
+    "name": "WearOS工具箱",
+    "packageName": "com.flyfishstudio.wearosbox",
+    "author": "Flyfish Studio",
+    "preferred": ["coolapk"],
+	"link": "https://www.coolapk.com/apk/com.flyfishstudio.wearosbox",
+    "desc": "这款应用可以帮助您在手机上借助WiFi来对手表进行一些高级操作，如：安装APK、修改屏幕分辨率、修改屏幕DPI、修改电量等操作。WearOS工具箱可完美支持：TicWatch全系手表、小米手表、Moto手表等使用WearOS操作系统的手表。"
   }
 ]
