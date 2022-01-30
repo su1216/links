@@ -12,6 +12,7 @@
     "packageName": "com.absinthe.libchecker",
     "author": "Absinthe",
     "preferred": ["coolapk"],
+    "link": "https://github.com/zhaobozhen/LibChecker",
     "desc": "这是一个查看并分析App使用的第三方库的应用。"
   },
   {
@@ -19,7 +20,7 @@
     "packageName": "com.flyfishstudio.wearosbox",
     "author": "Flyfish Studio",
     "preferred": ["coolapk"],
-	"link": "https://www.coolapk.com/apk/com.flyfishstudio.wearosbox",
+    "link": "https://wearosbox.com",
     "desc": "这款应用可以帮助您在手机上借助WiFi来对手表进行一些高级操作，如：安装APK、修改屏幕分辨率、修改屏幕DPI、修改电量等操作。WearOS工具箱可完美支持：TicWatch全系手表、小米手表、Moto手表等使用WearOS操作系统的手表。"
   }
 ]
