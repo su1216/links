@@ -2,7 +2,7 @@
   {
     "name": "android开发工具箱",
     "packageName": "com.su.assistant.pro",
-	"contact": "su1216",
+	"contact": "dear_su1216",
 	"channel": "telegram",
 	"order": 1,
     "author": "su1216",
@@ -12,7 +12,7 @@
   {
     "name": "LibChecker - 应用架构查看",
     "packageName": "com.absinthe.libchecker",
-	"icon": "https://github.com/zhaobozhen/LibChecker/blob/master/source/icons/mipmap-xxhdpi/ic_launcher.png",
+	"icon": "https://github.com/zhaobozhen/LibChecker/blob/master/source/icons/mipmap-xxhdpi/ic_launcher.png?raw=true",
 	"contact": "zhaobozhen2025@gmail.com",
 	"channel": "email",
     "author": "Absinthe",
