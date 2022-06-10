@@ -2,6 +2,8 @@
   {
     "name": "android开发工具箱",
     "packageName": "com.su.assistant.pro",
+	"contact": "su1216",
+	"channel": "telegram",
 	"order": 1,
     "author": "su1216",
     "preferred": ["coolapk", "yingyongbao", "360", "appchina"],
@@ -10,6 +12,9 @@
   {
     "name": "LibChecker - 应用架构查看",
     "packageName": "com.absinthe.libchecker",
+	"icon": "https://github.com/zhaobozhen/LibChecker/blob/master/source/icons/mipmap-xxhdpi/ic_launcher.png",
+	"contact": "zhaobozhen2025@gmail.com",
+	"channel": "email",
     "author": "Absinthe",
     "preferred": ["coolapk"],
     "link": "https://github.com/zhaobozhen/LibChecker",
@@ -31,6 +36,7 @@
     "preferred": ["coolapk"],
 	"link": "https://www.coolapk.com/apk/com.start.now",
 	"contact": "1047631152@qq.com",
+	"channel": "email",
     "desc": "一款高效便捷的知识管理工具。"
   }
 ]
